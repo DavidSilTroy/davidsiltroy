@@ -7,6 +7,6 @@
 - Friend.
 - Always trying to leaving the world better than I found it.
 
- I love to work in the programing word, always exited to make ideas come true with the software. And sometimes with hardward(the Mechatronic side). Feel free to see all my repository, I am lucky I have worked with awesome people too! Not only other programmers but awesome designers!
+I enjoy working in the programming field and always find it exciting to realize ideas with software. And sometimes with hardware (the mechatronic side). Feel free to check out all my repository, I am lucky to have worked with great people too! Not only other programmers but awesome designers!
 
 ![alt text](./assets/img/dogtyping.gif)
