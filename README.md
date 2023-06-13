@@ -1,8 +1,8 @@
 ### Hey! I am 
 # davidsiltroy
 
-- Mechatronic Engineer graduated in UTN, Ecuador. 
-- Applied Computer Science student in Thomas More, Belgium.
+- Mechatronic Engineer graduated at UTN, Ecuador. 
+- Applied Computer Science student at Thomas More, Belgium.
 - Knowledge hunter.
 - Friend.
 - Always trying to leaving the world better than I found it.
